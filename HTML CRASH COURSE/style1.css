@@ -1,0 +1,30 @@
+/*universal selector*/
+*{
+    margin: 1%;
+}
+
+.red{
+
+    color: blue;
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+/*unique selector*/
+#unique{
+    background-color: blueviolet;
+}
+
+
+.box{
+    background: palevioletred;
+}
+
+.box h1{
+    color: gold;
+    background: red;
+    
+}
+p,h1{
+    padding: 23px;
+}
